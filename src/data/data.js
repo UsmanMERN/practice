@@ -232,11 +232,12 @@ export const orders = {
 };
 
 
-export const wishlistItems = [
-    { id: 1, key: '1', name: 'Product 1', image: 'https://via.placeholder.com/50' },
-    { id: 2, key: '2', name: 'Product 2', image: 'https://via.placeholder.com/50' },
-    { id: 3, key: '3', name: 'Product 3', image: 'https://via.placeholder.com/50' },
+export const wishList = [
+    { id: 1, key: '1', name: 'Product 1', image: 'https://picsum.photos/50' },
+    { id: 2, key: '2', name: 'Product 2', image: 'https://picsum.photos/50' },
+    { id: 3, key: '3', name: 'Product 3', image: 'https://picsum.photos/50' }
 ];
+
 
 export const cartItems = [
     { id: 1, key: '', name: 'Product A', price: 19.99, quantity: 1, image: 'https://via.placeholder.com/50' },
